@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">flag</string>
+    <string name="start" translatable="false">Choose colors that do not appear in the Polish flag:</string>
+    <string name="win" translatable="false">Victory! Wrong: </string>
+    <string name="wrong" translatable="false">Wrong</string>
+    <string name="correct" translatable="false">Correct</string>
+</resources>
